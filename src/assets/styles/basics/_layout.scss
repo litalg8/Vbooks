@@ -1,0 +1,23 @@
+.container {
+    max-width: 1024px;
+    padding: 20px;
+    margin: 0 auto;
+    &.books {
+        padding: 10px 20px 0px 20px;
+        background-color: $clr3;
+    }
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, auto));
+    grid-auto-rows: auto;
+    grid-column: 2/-1;
+    row-gap: 1.8rem;
+    @include for-wide-layout {
+        grid-template-columns: repeat(auto-fill, minmax(280px, auto));
+    }
+    @include for-mobile-layout {
+        grid-template-columns: repeat(auto-fill, minmax(280px, auto));
+    }
+}

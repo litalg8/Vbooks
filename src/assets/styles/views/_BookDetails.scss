@@ -1,0 +1,52 @@
+.main-details {
+    position: relative;
+    width: 700px;
+    font-size: 1.4rem;
+    *{
+        flex: 0 0 50%;
+        max-height:400px; 
+    }
+    img {
+        padding-inline-end: 20px;
+    }
+    .book {
+        padding-inline-start: 20px;
+        padding-inline-end: 20px;
+        flex: 0 0 60%;
+    }
+    button:first-of-type {
+        top: 20px;
+    }
+    h2 {
+        text-transform: capitalize;
+    }
+    h4 {
+        font-family: Merriweather-Light;
+    }
+    h5 {
+        font-family: Merriweather-LightItalic;
+    }
+    p {
+        line-height: 0.9;
+        font-size: 2rem;
+        margin: 0;
+        max-width:60ch; 
+    }
+}
+.navigation-header {
+    margin-left: 155px;
+}
+.number-details {
+    li {
+        font-family: Livvic-Regular;
+        margin-bottom:10px; 
+        &.red {
+            color: $clr6;
+        }
+        &.green {
+            color: $clr7;
+        }
+    }
+}
+
+

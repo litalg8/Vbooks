@@ -1,0 +1,13 @@
+.main-filter {
+    padding: 10px 0px;
+    margin: 0;
+    .filter-title {
+        font-size: rem(28px);
+        text-transform: capitalize;
+        font-family: Merriweather-Bold;
+    }
+    @include for-mobile-layout {
+        display: flex;
+        flex-direction: column;
+    }
+}

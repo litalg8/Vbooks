@@ -1,0 +1,66 @@
+// Setup
+@import "./setup/variables";
+@import "./setup/functions";
+@import "./setup/mixins";
+// @import "./setup/typography";
+
+// Basics
+@import "./basics/helpers.scss";
+@import "./basics/layout.scss";
+@import "./basics/base.scss";
+@import "./basics/links.scss";
+@import "./basics/buttons.scss";
+
+//views
+@import "./views/About";
+@import "./views/BookDetails";
+@import "./views/Home";
+@import "./views/BookApp";
+
+// Components
+@import "./components/BookFilter";
+@import "./components/BookPreview";
+@import "./components/AppHeader";
+
+// Typography
+
+@font-face {
+    font-family: Peddana-Regular;
+    src: url(../fonts/Peddana/Peddana-Regular.ttf);
+}
+@font-face {
+    font-family: Merriweather-Regular;
+    src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+}
+@font-face {
+    font-family: Merriweather-Light;
+    src: url(../fonts/Merriweather/Merriweather-Light.ttf);
+}
+@font-face {
+    font-family: Merriweather-LightItalic;
+    src: url(../fonts/Merriweather/Merriweather-LightItalic.ttf);
+}
+@font-face {
+    font-family: Merriweather-Bold;
+    src: url(../fonts/Merriweather/Merriweather-Bold.ttf);
+}
+@font-face {
+    font-family: Merriweather-Black;
+    src: url(../fonts/Merriweather/Merriweather-Black.ttf);
+}
+@font-face {
+    font-family: Livvic-Regular;
+    src: url(../fonts/Livvic/Livvic-Regular.ttf);
+}
+@font-face {
+    font-family:Livvic-SemiBold;
+    src: url(../fonts/Livvic/Livvic-SemiBold.ttf);
+}
+@font-face {
+    font-family: Livvic-Bold;
+    src: url(../fonts/Livvic/Livvic-Bold.ttf);
+}
+
+
+
+

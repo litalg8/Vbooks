@@ -1,0 +1,29 @@
+.book-preview {
+    padding: 10px;
+    background-color: $clr4;
+    color:$clr2; 
+    .preview-title {
+        font-size: 0.9rem;
+        font-family: Merriweather-Bold;
+        text-transform: capitalize;
+    }
+    .preview-author {
+        font-size: 0.9rem;
+        font-family: Merriweather-LightItalic;
+        &.text {
+            margin-bottom: 5px;
+        }
+    }
+    h5{
+        font-family: Livvic-Regular;  
+    }
+
+    .img-area {
+        img {
+            height: 300px;
+            object-fit: cover;
+            border-radius: 0.75rem;
+            border: 1px solid #00000021;
+        }
+    }
+}
