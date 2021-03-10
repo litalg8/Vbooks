@@ -54,7 +54,7 @@ function _createDefaultBooks() {
     const books = [
         {
             "_id": "OXeMG8wNskc",
-            "title": "metus hendrerit",
+            "title": "Good Omens",
             "subtitle": "mi est eros convallis auctor arcu dapibus himenaeos",
             "authors": [
                 "Barbara Cartland"
@@ -66,7 +66,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/20.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602445403/books/good-omens.jpg",
             "language": "en",
             "listPrice": {
                 "amount": 109,
@@ -88,7 +88,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/14.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602445403/books/hitchhiker%27s-guide-to-the-galaxy.jpg",
             "language": "sp",
             "listPrice": {
                 "amount": 44,
@@ -110,7 +110,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/2.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1615406188/books/robot.jpg",
             "language": "he",
             "listPrice": {
                 "amount": 108,
@@ -132,7 +132,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/16.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602445403/books/pandora%27s-star.jpg",
             "language": "en",
             "listPrice": {
                 "amount": 30,
@@ -154,7 +154,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/12.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602445677/books/cat%27s-cradle.jpg",
             "language": "sp",
             "listPrice": {
                 "amount": 19,
@@ -176,7 +176,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/1.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602446039/books/the-road.jpg",
             "language": "en",
             "listPrice": {
                 "amount": 91,
@@ -198,7 +198,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/14.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602446040/books/game-of-thrones-a-song-of-ice-and-fire.jpg",
             "language": "he",
             "listPrice": {
                 "amount": 90,
@@ -220,7 +220,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/11.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602446040/books/the-hobbit.jpg",
             "language": "he",
             "listPrice": {
                 "amount": 176,
@@ -242,7 +242,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/10.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602446041/books/the-fellowship-of-the-ring.jpg",
             "language": "sp",
             "listPrice": {
                 "amount": 116,
@@ -264,7 +264,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/5.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602446041/books/the-return-of-the-king.jpg",
             "language": "en",
             "listPrice": {
                 "amount": 145,
@@ -286,7 +286,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/16.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1602446041/books/to-kill-a-mockingbird.jpg",
             "language": "sp",
             "listPrice": {
                 "amount": 157,
@@ -330,7 +330,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/8.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1615404111/books/slaughterhouse-five.jpg",
             "language": "en",
             "listPrice": {
                 "amount": 167,
@@ -352,7 +352,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/3.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1615404119/books/da-vinci-code.jpg",
             "language": "he",
             "listPrice": {
                 "amount": 150,
@@ -374,7 +374,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/6.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1615404166/books/catcher-in-the-rye.jpg",
             "language": "en",
             "listPrice": {
                 "amount": 58,
@@ -396,7 +396,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/7.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1615404236/books/kite-runner.jpg",
             "language": "en",
             "listPrice": {
                 "amount": 78,
@@ -418,7 +418,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/10.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1615404524/books/homodeus.jpg",
             "language": "en",
             "listPrice": {
                 "amount": 118,
@@ -440,7 +440,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/12.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1615404532/books/the-alchemist.jpg",
             "language": "he",
             "listPrice": {
                 "amount": 60,
@@ -462,7 +462,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/20.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1615404543/books/sapiens.jpg",
             "language": "he",
             "listPrice": {
                 "amount": 110,
@@ -484,7 +484,7 @@ function _createDefaultBooks() {
                 "Computers",
                 "Hack"
             ],
-            "thumbnail": "http://coding-academy.org/books-photos/2.jpg",
+            "thumbnail": "https://res.cloudinary.com/dk67dcp9c/image/upload/v1615405860/books/foundation.jpg",
             "language": "sp",
             "listPrice": {
                 "amount": 186,
