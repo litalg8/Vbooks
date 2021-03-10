@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a {
   text-decoration: none;
   color: $clr1;
@@ -8,3 +9,15 @@ a {
     color: $clr8;
   }
 }
+=======
+a {
+  text-decoration: none;
+  color: $clr1;
+  padding: 10px;
+  height: 100%;
+
+  &.router-link-exact-active {
+    color: $clr8;
+  }
+}
+>>>>>>> 9abe9362015ff3d9dd1040cbbaacdadb7cdd5ae6

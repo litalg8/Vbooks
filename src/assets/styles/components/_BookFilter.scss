@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .main-filter {
     padding: 10px 0px;
     margin: 0;
@@ -11,3 +12,18 @@
         flex-direction: column;
     }
 }
+=======
+.main-filter {
+    padding: 10px 0px;
+    margin: 0;
+    .filter-title {
+        font-size: rem(28px);
+        text-transform: capitalize;
+        font-family: Merriweather-Bold;
+    }
+    @include for-mobile-layout {
+        display: flex;
+        flex-direction: column;
+    }
+}
+>>>>>>> 9abe9362015ff3d9dd1040cbbaacdadb7cdd5ae6

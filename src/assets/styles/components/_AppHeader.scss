@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .main-nav {
     background-color: $clr2;
 
@@ -10,3 +11,17 @@
 .mobile-nav {
     display: none;
 }
+=======
+.main-nav {
+    background-color: $clr2;
+
+    .logo {
+        padding: 0;
+        font-size: rem(24px);
+        font-family: Merriweather-Bold;
+    }
+}
+.mobile-nav {
+    display: none;
+}
+>>>>>>> 9abe9362015ff3d9dd1040cbbaacdadb7cdd5ae6
