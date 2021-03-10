@@ -1,6 +1,10 @@
 {
-  "name": "vue-proj",
-  "version": "v12.18.3",
+  "name": "vbooks-project",
+  "version": "1.0.0",
+  "description": "Vue and Scss book app",
+  "engines": {
+    "node": "v14.15.4"
+  },
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
